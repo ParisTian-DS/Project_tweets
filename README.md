@@ -11,6 +11,13 @@ This project is for building a interactive data dashboard with the streamlit lib
 5. Create interactive plots with Plotly.
 6. Containerize this application with docker.
 
+## Application Interfaces
+
+![Part-1](https://user-images.githubusercontent.com/109061477/218433510-c748bdb0-ebe6-417a-b17e-1f29908fa62c.gif)
+![Part 2](https://user-images.githubusercontent.com/109061477/218451492-72cba919-5070-46c5-b817-76541472de8f.gif)
+![Part-3](https://user-images.githubusercontent.com/109061477/218448405-6b87a617-ab20-46ac-9752-9dff8e1671a1.gif)
+![Part 4](https://user-images.githubusercontent.com/109061477/218452054-5ea177bf-a241-4729-84ad-5b75a3e32a2b.gif)
+
 ## Deployment Architecture
 
 ### Step 1 Clone the repository
@@ -28,6 +35,7 @@ pip install -r requirements.txt
 ### Step 4: Run the application server
 ```bash
 streamlit run app.py
+Local URL: http://localhost:8501
 ```
 
 ## Run locally
