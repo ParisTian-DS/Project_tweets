@@ -1,7 +1,8 @@
 # Interactive Dashboards for Tweets Analysis
 
 ## Project statements:
-This project is for building a interactive data dashboard with the streamlit library in python. 
+This project is for building a interactive data dashboard with Sentiment analysis of tweets about US Airlines.
+
 
 ## Tech Stack Used
 1. Python and streamlit to build beautiful and interactive dashboards and web apps.
